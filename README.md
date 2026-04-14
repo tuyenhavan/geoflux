@@ -17,7 +17,7 @@ This package is a rewrite code from https://github.com/Open-ET/flux-data-footpri
 ## Installation
 
 ```bash
-pip install geoflux
+pip install git+https://github.com/tuyenhavan/geoflux.git
 ```
 
 ## Usage
