@@ -22,4 +22,4 @@ pip install git+https://github.com/tuyenhavan/geoflux.git
 
 ## Usage
 
-See `notebook.ipynb` for example usage.
+See `notebooks/notebook.ipynb` for example usage.
